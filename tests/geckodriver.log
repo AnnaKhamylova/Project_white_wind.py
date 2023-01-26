@@ -1,0 +1,781 @@
+1674563033898	geckodriver	INFO	Listening on 127.0.0.1:63315
+1674563036976	mozrunner::runner	INFO	Running command: "C:\\Users\\Anna\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63316" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofilex2evjJ"
+1674563037397	Marionette	INFO	Marionette enabled
+1674563037402	Marionette	INFO	Listening on port 63337
+Read port: 63337
+WebDriver BiDi listening on ws://127.0.0.1:63316
+1674563037504	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofilex2evjJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63316/devtools/browser/f81ade75-c383-4202-8eeb-26747424fcde
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1674563599757	Marionette	INFO	Stopped listening on port 63337
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1674563756631	geckodriver	INFO	Listening on 127.0.0.1:64136
+1674563759688	mozrunner::runner	INFO	Running command: "C:\\Users\\Anna\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64137" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofileFvmtXj"
+1674563759960	Marionette	INFO	Marionette enabled
+1674563759964	Marionette	INFO	Listening on port 64146
+Read port: 64146
+WebDriver BiDi listening on ws://127.0.0.1:64137
+1674563760051	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofileFvmtXj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64137/devtools/browser/3a5425e3-2f9c-43a4-99cf-53e32313234f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1674564170787	Marionette	INFO	Stopped listening on port 64146
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1674564442145	geckodriver	INFO	Listening on 127.0.0.1:64654
+1674564445212	mozrunner::runner	INFO	Running command: "C:\\Users\\Anna\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64655" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofileZl1rdc"
+1674564445506	Marionette	INFO	Marionette enabled
+1674564445511	Marionette	INFO	Listening on port 64664
+Read port: 64664
+WebDriver BiDi listening on ws://127.0.0.1:64655
+1674564445606	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofileZl1rdc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64655/devtools/browser/af1e3f21-6fff-4cc2-bb46-9cf588eb7d7b
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1674565640008	Marionette	INFO	Stopped listening on port 64664
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+te-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofile3ejWcB"
+1674564669931	Marionette	INFO	Marionette enabled
+1674564669936	Marionette	INFO	Listening on port 64906
+Read port: 64906
+WebDriver BiDi listening on ws://127.0.0.1:64897
+1674564670045	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofile3ejWcB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64897/devtools/browser/040c902b-93c1-44c4-a0d9-cf37297ec4c6
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1674565638919	Marionette	INFO	Stopped listening on port 64906
+[Parent 5720, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+tte	INFO	Listening on port 64982
+Read port: 64982
+WebDriver BiDi listening on ws://127.0.0.1:64972
+1674564717709	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofileZque3u\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64972/devtools/browser/5fd95d34-1b83-48cb-b915-7214859cd776
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1674565638387	Marionette	INFO	Stopped listening on port 64982
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 15028, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+te	INFO	Listening on port 65332
+Read port: 65332
+WebDriver BiDi listening on ws://127.0.0.1:65323
+1674564825363	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofileaSlp38\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65323/devtools/browser/c16cf85d-fab6-4332-aa85-e9bde4917877
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1674565641602	Marionette	INFO	Stopped listening on port 65332
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+te-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofilewZzbQQ"
+1674565403086	Marionette	INFO	Marionette enabled
+1674565403090	Marionette	INFO	Listening on port 49191
+Read port: 49191
+WebDriver BiDi listening on ws://127.0.0.1:49182
+1674565403187	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofilewZzbQQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49182/devtools/browser/3c9dede4-554a-411d-9756-3f3b5dd4fdb1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1674565642147	Marionette	INFO	Stopped listening on port 49191
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1674566488662	geckodriver	INFO	Listening on 127.0.0.1:49689
+1674566491739	mozrunner::runner	INFO	Running command: "C:\\Users\\Anna\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49690" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofileDNrjJI"
+1674566492052	Marionette	INFO	Marionette enabled
+1674566492056	Marionette	INFO	Listening on port 49699
+Read port: 49699
+WebDriver BiDi listening on ws://127.0.0.1:49690
+1674566492156	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofileDNrjJI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49690/devtools/browser/967071c5-9284-49b6-888f-4f116202b703
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1674566496560	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1674566505929	geckodriver	INFO	Listening on 127.0.0.1:49769
+1674566509007	mozrunner::runner	INFO	Running command: "C:\\Users\\Anna\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49770" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofile0MnW80"
+1674566509337	Marionette	INFO	Marionette enabled
+1674566509342	Marionette	INFO	Listening on port 49781
+WebDriver BiDi listening on ws://127.0.0.1:49770
+Read port: 49781
+1674566509571	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofile0MnW80\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49770/devtools/browser/1b62318f-5411-4638-aeed-403caa7faf50
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1674566515328	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1674566528321	geckodriver	INFO	Listening on 127.0.0.1:49809
+1674566531404	mozrunner::runner	INFO	Running command: "C:\\Users\\Anna\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49810" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofiletykOro"
+1674566531706	Marionette	INFO	Marionette enabled
+1674566531710	Marionette	INFO	Listening on port 49819
+Read port: 49819
+WebDriver BiDi listening on ws://127.0.0.1:49810
+1674566531810	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofiletykOro\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49810/devtools/browser/bbf79509-9879-4de3-868d-39081fd280ef
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2398))
+1674568423712	Marionette	INFO	Stopped listening on port 49819
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+ning on ws://127.0.0.1:49876
+1674566612469	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofilehfCfZp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49876/devtools/browser/6ce685f6-39ce-4de8-8e80-f821727af2de
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1674567442538	Marionette	INFO	Stopped listening on port 49885
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+te-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofileJiNS4z"
+1674566742673	Marionette	INFO	Marionette enabled
+1674566742677	Marionette	INFO	Listening on port 49948
+Read port: 49948
+WebDriver BiDi listening on ws://127.0.0.1:49939
+1674566742776	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofileJiNS4z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49939/devtools/browser/14ac2f7a-a351-46f9-8fb3-52dc70758235
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1674567443314	Marionette	INFO	Stopped listening on port 49948
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1674644338726	geckodriver	INFO	Listening on 127.0.0.1:52809
+1674644341797	mozrunner::runner	INFO	Running command: "C:\\Users\\Anna\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52810" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofilehucDay"
+1674644342330	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674644342334	Marionette	INFO	Listening on port 52822
+Read port: 52822
+WebDriver BiDi listening on ws://127.0.0.1:52810
+1674644342432	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofilehucDay\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52810/devtools/browser/510126cf-7c0d-4ac4-a1d9-611fae9a8717
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1674644467907	Marionette	INFO	Stopped listening on port 52822
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+2857" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofilel5v3v1"
+1674644353278	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674644353282	Marionette	INFO	Listening on port 52868
+Read port: 52868
+WebDriver BiDi listening on ws://127.0.0.1:52857
+1674644353384	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1674644431464	geckodriver	INFO	Listening on 127.0.0.1:52923
+1674644434556	mozrunner::runner	INFO	Running command: "C:\\Users\\Anna\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52924" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofileb4TX5E"
+1674644434852	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674644434856	Marionette	INFO	Listening on port 52932
+Read port: 52932
+WebDriver BiDi listening on ws://127.0.0.1:52924
+1674644434967	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofileb4TX5E\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52924/devtools/browser/d7744374-98b7-4e91-8d5b-0cf1243f4fe5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1674644468789	Marionette	INFO	Stopped listening on port 52932
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1692:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:374:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:254:17
+Barrier/_internalAddBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:773:20
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1674644530047	geckodriver	INFO	Listening on 127.0.0.1:53058
+1674644533116	mozrunner::runner	INFO	Running command: "C:\\Users\\Anna\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53059" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofilezf99l3"
+1674644533412	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674644533417	Marionette	INFO	Listening on port 53068
+Read port: 53068
+WebDriver BiDi listening on ws://127.0.0.1:53059
+1674644533522	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofilezf99l3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53059/devtools/browser/039b0eb2-5bf8-492f-9858-f5abcb8dcdc1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1674644585159	geckodriver	INFO	Listening on 127.0.0.1:53126
+1674644588233	mozrunner::runner	INFO	Running command: "C:\\Users\\Anna\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53127" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofile4megl5"
+1674644588522	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674644588527	Marionette	INFO	Listening on port 53137
+Read port: 53137
+WebDriver BiDi listening on ws://127.0.0.1:53127
+1674644588632	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofile4megl5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53127/devtools/browser/23e42666-cf88-4da4-a1a4-e8ce27995713
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1674644621563	geckodriver	INFO	Listening on 127.0.0.1:53223
+1674644624634	mozrunner::runner	INFO	Running command: "C:\\Users\\Anna\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53224" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofile5ExRaW"
+1674644624934	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674644624939	Marionette	INFO	Listening on port 53232
+Read port: 53232
+WebDriver BiDi listening on ws://127.0.0.1:53224
+1674644625047	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofile5ExRaW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53224/devtools/browser/4b193203-1fcf-42c2-8b42-5dc8d170f91c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1674644686958	geckodriver	INFO	Listening on 127.0.0.1:53306
+1674644690029	mozrunner::runner	INFO	Running command: "C:\\Users\\Anna\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53307" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofilelsb1Od"
+1674644690348	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674644690352	Marionette	INFO	Listening on port 53315
+Read port: 53315
+WebDriver BiDi listening on ws://127.0.0.1:53307
+1674644690464	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofilelsb1Od\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53307/devtools/browser/041c4187-24d6-49a0-8f22-c8cd7fea29af
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1674646438703	Marionette	INFO	Stopped listening on port 53315
+Dynamically enable window occlusion 1
+a Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53460" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofilelHnqkT"
+1674644790584	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674644790589	Marionette	INFO	Listening on port 53468
+Read port: 53468
+WebDriver BiDi listening on ws://127.0.0.1:53460
+1674644790694	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofilelHnqkT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53460/devtools/browser/113816cb-ce4b-41e9-8f1e-17c0452d0d67
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1674646438355	Marionette	INFO	Stopped listening on port 53468
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "-profile" "C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofileD6bWXo"
+1674644816111	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674644816116	Marionette	INFO	Listening on port 53519
+Read port: 53519
+WebDriver BiDi listening on ws://127.0.0.1:53510
+1674644816227	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofileD6bWXo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53510/devtools/browser/ec957348-54d8-4cec-8a2c-defb79e99e19
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1674646438446	Marionette	INFO	Stopped listening on port 53519
+Dynamically enable window occlusion 1
+a Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53721" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofileoS7oSz"
+1674645128789	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674645128794	Marionette	INFO	Listening on port 53729
+Read port: 53729
+WebDriver BiDi listening on ws://127.0.0.1:53721
+1674645128903	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofileoS7oSz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53721/devtools/browser/043edac3-8d35-4748-927b-c2735fb6e222
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1674646438543	Marionette	INFO	Stopped listening on port 53729
+Dynamically enable window occlusion 1
+rofile" "C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofilexx3tfK"
+1674645145145	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674645145150	Marionette	INFO	Listening on port 53780
+Read port: 53780
+WebDriver BiDi listening on ws://127.0.0.1:53771
+1674645145259	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofilexx3tfK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53771/devtools/browser/c62b5ef6-3687-438f-aff1-19e8c8421a77
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1674645202141	geckodriver	INFO	Listening on 127.0.0.1:53886
+1674645205208	mozrunner::runner	INFO	Running command: "C:\\Users\\Anna\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53887" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofileJYLsj6"
+1674645205527	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674645205532	Marionette	INFO	Listening on port 53896
+Read port: 53896
+WebDriver BiDi listening on ws://127.0.0.1:53887
+1674645205643	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofileJYLsj6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53887/devtools/browser/770abdce-52cd-4cdd-b075-afaf48b130ed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1674646438702	Marionette	INFO	Stopped listening on port 53896
+Dynamically enable window occlusion 1
+a Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54126" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofilePZ41KV"
+1674645438100	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674645438105	Marionette	INFO	Listening on port 54134
+Read port: 54134
+WebDriver BiDi listening on ws://127.0.0.1:54126
+1674645438211	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofilePZ41KV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54126/devtools/browser/b6197caa-7f6f-450c-a5a4-ed27582652a1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1674646438440	Marionette	INFO	Stopped listening on port 54134
+Dynamically enable window occlusion 1
+a Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54669" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofilesmhnAy"
+1674646088690	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674646088695	Marionette	INFO	Listening on port 54680
+Read port: 54680
+WebDriver BiDi listening on ws://127.0.0.1:54669
+1674646088807	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofilesmhnAy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54669/devtools/browser/ea7e2c9f-8e3f-4840-bab5-9b197594e834
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1674646438457	Marionette	INFO	Stopped listening on port 54680
+Dynamically enable window occlusion 1
+ng command: "C:\\Users\\Anna\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54748" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofile1pZMa8"
+1674646157058	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674646157062	Marionette	INFO	Listening on port 54756
+Read port: 54756
+WebDriver BiDi listening on ws://127.0.0.1:54748
+1674646157175	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofile1pZMa8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54748/devtools/browser/422d950c-4815-4ec5-aa17-34fa2227d497
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1674646438702	Marionette	INFO	Stopped listening on port 54756
+Dynamically enable window occlusion 1
+ng command: "C:\\Users\\Anna\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54862" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofileO6LdWJ"
+1674646293663	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674646293668	Marionette	INFO	Listening on port 54870
+Read port: 54870
+WebDriver BiDi listening on ws://127.0.0.1:54862
+1674646293779	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofileO6LdWJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54862/devtools/browser/a974a772-bfe8-4c90-8d4c-d8e0760c6607
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1674646438380	Marionette	INFO	Stopped listening on port 54870
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+4936" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofileH3anI6"
+1674646354592	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674646354597	Marionette	INFO	Listening on port 54945
+Read port: 54945
+WebDriver BiDi listening on ws://127.0.0.1:54936
+1674646354721	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofileH3anI6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54936/devtools/browser/841c7db5-c16b-49a2-a40a-bc2f03840240
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1674646438440	Marionette	INFO	Stopped listening on port 54945
+Dynamically enable window occlusion 1
+1674646589353	geckodriver	INFO	Listening on 127.0.0.1:55243
+1674648339801	geckodriver	INFO	Listening on 127.0.0.1:56141
+1674648342891	mozrunner::runner	INFO	Running command: "C:\\Users\\Anna\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56142" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofileqC0N1E"
+1674648343273	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674648343278	Marionette	INFO	Listening on port 56150
+Read port: 56150
+WebDriver BiDi listening on ws://127.0.0.1:56142
+1674648343385	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofileqC0N1E\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56142/devtools/browser/38fc407e-b582-4c57-b330-b99538ead8ab
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+JavaScript error: https://saucelabs.com/js/main.bundle.js?a6ab9c96, line 1: TypeError: t is null
+1674648940919	Marionette	INFO	Stopped listening on port 56150
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1674649062431	geckodriver	INFO	Listening on 127.0.0.1:57608
+1674649927625	geckodriver	INFO	Listening on 127.0.0.1:58622
+1674649930697	mozrunner::runner	INFO	Running command: "C:\\Users\\Anna\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58623" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofileRT8jrg"
+1674649930993	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674649930998	Marionette	INFO	Listening on port 58631
+Read port: 58631
+WebDriver BiDi listening on ws://127.0.0.1:58623
+1674649931103	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofileRT8jrg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58623/devtools/browser/2b725609-5693-4efc-9bc9-4e85f8b695ad
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1674652988991	geckodriver	INFO	Listening on 127.0.0.1:63218
+1674652992030	mozrunner::runner	INFO	Running command: "C:\\Users\\Anna\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63219" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofileVwHvZH"
+1674652992356	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674652992361	Marionette	INFO	Listening on port 63228
+WebDriver BiDi listening on ws://127.0.0.1:63219
+Read port: 63228
+1674652992651	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofileVwHvZH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63219/devtools/browser/3c61c62d-1fd2-4eeb-bcff-f89943876920
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://shop.kz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://shop.kz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://shop.kz."
+1674653000567	Marionette	INFO	Stopped listening on port 63228
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1674653056979	geckodriver	INFO	Listening on 127.0.0.1:63402
+1674653060068	mozrunner::runner	INFO	Running command: "C:\\Users\\Anna\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63403" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofileYzNiiK"
+1674653060463	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674653060467	Marionette	INFO	Listening on port 63413
+Read port: 63413
+WebDriver BiDi listening on ws://127.0.0.1:63403
+1674653060583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofileYzNiiK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63403/devtools/browser/9c803318-c25b-4b9a-a26a-9e3431ba0643
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://shop.kz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://shop.kz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://shop.kz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://shop.kz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://shop.kz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://shop.kz."
+1674653083525	Marionette	INFO	Stopped listening on port 63413
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1692:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:374:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:254:17
+Barrier/_internalAddBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:773:20
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+1674653200951	geckodriver	INFO	Listening on 127.0.0.1:63593
+1674653204023	mozrunner::runner	INFO	Running command: "C:\\Users\\Anna\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63594" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofileOadtRs"
+1674653204346	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674653204351	Marionette	INFO	Listening on port 63603
+WebDriver BiDi listening on ws://127.0.0.1:63594
+Read port: 63603
+1674653204576	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofileOadtRs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63594/devtools/browser/2a7cdb35-9edb-48d2-b8ac-0667bddef2f7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://shop.kz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://shop.kz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://shop.kz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://shop.kz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://shop.kz."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://shop.kz."
+1674653218691	Marionette	INFO	Stopped listening on port 63603
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1692:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:374:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:254:17
+Barrier/_internalAddBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:773:20
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
